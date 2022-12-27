@@ -1,6 +1,6 @@
 baseURL = 'https://137.is/'
 languageCode = 'en-us'
-title = 'My cactus website'
+title = '137.is'
 
 theme = "cactus"
 copyright = "You" # cactus will use title if copyright is not set
