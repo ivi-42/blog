@@ -1,3 +1,6 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ivi-42/137.is.git
 
 [submodule "public"]
 	path = public
