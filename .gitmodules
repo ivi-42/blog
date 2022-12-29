@@ -1,4 +1,4 @@
-[submodule "public"]
+[submodule "ivi-42.github.io"]
 	path = ivi-42.github.io
 	url = https://github.com/ivi-42/ivi-42.github.io.git
 
