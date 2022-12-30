@@ -6,4 +6,4 @@ description: "A little bit about me"
 
 ---
 
-oh hi!
+# This page is the about of the website
